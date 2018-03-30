@@ -86,7 +86,7 @@ Pigeoncoin is free and open source and will be issued and mined transparently wi
 High Level Background
 A blockchain is a ledger showing all transactions made with a curerncy, including a coin or transaction's value - as well as the ability to for currency to be transferred to other parties. Of all the possible uses for blockchains, the reporting of who owns what is one of the core uses of the technology.  This is why Bitcoin was first and most successful use case for blockchain technology to date.
 
-The success of the Etherium ERC 20 token shows the demand for tokenized assets that use another blockchain.  Tokens offer many advantages to traditional shares or other participation mechanisms such as faster transfer, possibly increased user control and censorship resistance and reduction or elimination of the need for trusted third parties.
+The success of the Ethereum ERC 20 token shows the demand for tokenized assets that use another blockchain.  Tokens offer many advantages to traditional shares or other participation mechanisms such as faster transfer, possibly increased user control and censorship resistance and reduction or elimination of the need for trusted third parties.
 
 Bitcoin also has the capability of serving as the rails for tokens by using projects such as Omnilayer, RSK or Counterparty. However, neither Bitcoin nor Ethereum was specifically designed for facilitating ownership of other assets. 
 
